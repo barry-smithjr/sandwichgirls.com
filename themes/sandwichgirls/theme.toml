@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Sandwichgirls"
+license = "MIT"
+licenselink = "https://github.com/barry-smithjr/sandwichgirls.com/themes/sandwichgirls/blob/master/LICENSE"
+description = ""
+homepage = "http://sandwichgirls.com/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Barry Smith"
+  homepage = ""
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
