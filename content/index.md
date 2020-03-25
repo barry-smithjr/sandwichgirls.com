@@ -1,7 +1,7 @@
 ---
 layout: single
-title: index
-date: 2020-03-25T22:26:15.468Z
+title: Home
+date: 2020-03-25T22:26:15.468+00:00
 menu: "main"
 ---
 Homepage
